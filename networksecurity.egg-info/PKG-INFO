@@ -1,11 +1,12 @@
 Metadata-Version: 2.1
 Name: networksecurity
 Version: 0.0.1
+Summary: UNKNOWN
 Author: sunny savita
 Author-email: snshrivas3365@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
 License-File: LICENCE
-Requires-Dist: python-dotenv
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: pymongo
-Requires-Dist: certifi
+
+UNKNOWN
+
